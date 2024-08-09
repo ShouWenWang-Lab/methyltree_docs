@@ -3,6 +3,8 @@
 This document is for MethylTree, a tool that infers lineage from sparse single-cell DNA methylation data.
 
 
+![Example for input data structure in Methyltree](images/data_format.png)
+
 
 
 ## Input Overview
